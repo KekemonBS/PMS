@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LAB4</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Tmp</string>
+    <string name="movie_list">Movies</string>
+    <string name="my_info">Бухтій Олександр\nГрупа ІВ-81\nЗК ІВ-8106</string>
+</resources>
