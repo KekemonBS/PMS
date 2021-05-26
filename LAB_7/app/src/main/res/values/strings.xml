@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LAB7</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Tmp</string>
+    <string name="movie_list">Movies</string>
+    <string name="image_list">Images</string>
+    <string name="add_item">Search</string>
+    <string name="no_movies">Nothing found</string>
+    <string name="search_hint">Type movie name</string>
+    <string name="my_info">Бухтій Олександр\nГрупа ІВ-81\nЗК ІВ-8106</string>
+
+    <string name="title_activity_add_movie">AddMovieActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="title_activity_movie_details">MovieDetailsActivity</string>
+    <string name="todo">TODO</string>
+
+</resources>
